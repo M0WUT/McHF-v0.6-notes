@@ -63,6 +63,7 @@ To force enable this, follow option two [here](https://www.howtogeek.com/167723/
 bootloader mode using my instructions above as the computer will probably kill power to the mcHF during reboot so it won't start with the BAND- button held down so won't be in bootloader mode.
 
 Once the driver has been installed correctly, it shows up in Custom USB devices section as mcHF bootloader M0NKA, 2014
+Now reboot your computer to take it out of "Allow unsigned drivers mode"
 
 Now follow the instructions [here](http://www.m0nka.co.uk/wp-content/uploads/2016/03/Firmware-Upgrade.pdf) starting from below the section ("How to put your device into bootloader mode") as you have already done that using my
 modified instructions above. so start from "Successful enter of bootloader mode is indicated by LCD backlight..." ignoring his crap about the LED pattern, mine goes alternate green / red flashing in bootloader mode but it is important the the backlight is turned off in this mode.
