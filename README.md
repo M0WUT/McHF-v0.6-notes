@@ -84,6 +84,18 @@ Once you are happy this is working do the following:
  If you want to power if up for whatever reason, reshort the pads of R43b but REMOVE IT WHEN YOU ARE DONE!
 * Pass me a beer :)
 
+RF Board
+========
+Do not fit:
+* R54
+* C79
+* RFC2
+* RFC3
+* D3
+* D4
+
+Don't wind transformers yet, there are many notes on what to do with them so take it easy for now and I'll work it out soon.
+
 
 
 
